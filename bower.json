@@ -1,0 +1,23 @@
+{
+  "name": "lesson-thirteen",
+  "version": "0.0.0",
+  "authors": [
+    "Fred Cox <mcfedr@gmail.com>"
+  ],
+  "description": "Testing a project setup with grunt",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs-text": "~2.0.10",
+    "requirejs": "~2.1.9",
+    "jquery": "~2.0.3"
+  }
+}
